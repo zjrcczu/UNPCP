@@ -1,2 +1,2 @@
 # UNPCP
- code odf UN-PCPNet
+ code of UN-PCPNet. Our code will be released after acceptance.
